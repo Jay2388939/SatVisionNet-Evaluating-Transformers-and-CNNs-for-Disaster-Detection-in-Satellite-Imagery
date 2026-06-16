@@ -1,5 +1,7 @@
+AI-Based Disaster Detection and Response from Satellite Images
 This project focuses on developing an AI-based system for detecting disasters from satellite images and enabling faster response strategies. The goal is to leverage deep learning models to classify and localize disaster-affected areas using grayscale satellite imagery.
 
+🚀 Project Overview
 Objective: Detect disasters (e.g., floods, fires, earthquakes) in grayscale satellite images.
 
 Dataset: Satellite images in grayscale format, annotated for disaster vs. non-disaster classes.
